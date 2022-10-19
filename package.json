@@ -1,10 +1,15 @@
 {
-  "name": "_socket-io",
+  "name": "socketio_notification",
   "version": "1.0.0",
   "main": "app.js",
   "author": "Mohammed shahul pm",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app",
+    "start": "node app"
+  },
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "socket.io": "^4.5.3"
   }
