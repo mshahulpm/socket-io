@@ -1,0 +1,11 @@
+{
+  "name": "_socket-io",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Mohammed shahul pm",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.3"
+  }
+}
